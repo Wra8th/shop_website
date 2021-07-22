@@ -1,0 +1,30 @@
+@import url("https://unpkg.com/@tailwindcss/typography@0.2.x/dist/typography.min.css");
+@import url("https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Viaoda+Libre&display=swap');
+
+@media all and (max-width: 2000px) and (min-width: 20px) {
+    header{
+        position: relative;
+        background-color:lightcyan;
+    }
+    .mainpage {
+        position: relative;
+        margin-top: 10%;
+        margin-left: 20%;
+        margin-right: 20%;
+        height: 50%;
+        width: 70x;
+    }
+    body {
+        background-image:url(photos/vintage.jpg);
+    }
+    #mainpage1{
+        position: relative;
+        margin-left: 10%;
+        margin-top: 5%;
+        margin-bottom: 10%;
+
+    }
+    
+  }
+
